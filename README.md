@@ -23,3 +23,10 @@ Projeto avaliado com nota de 88/100.
 - Hashing de passwords (atualmente em texto simples)
 - Refatoração para arquitetura modular (separar interface, base de dados e lógica de negócio)
 - Uso de tipos SQL mais adequados para valores monetários
+
+## Como executar
+
+1. Certifica-te que tens Python instalado (3.x)
+2. Instala a dependência necessária: pip install openpyxl
+3. Corre a aplicação: python projeto_b.py
+4. **Nota:** `tkinter` e `sqlite3` já vêm incluídos por defeito na instalação do Python, não precisas de os instalar.
