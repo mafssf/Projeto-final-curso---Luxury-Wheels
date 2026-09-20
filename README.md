@@ -30,3 +30,20 @@ Projeto avaliado com nota de 88/100.
 2. Instala a dependência necessária: pip install openpyxl
 3. Corre a aplicação: python projeto_b.py
 4. **Nota:** `tkinter` e `sqlite3` já vêm incluídos por defeito na instalação do Python, não precisas de os instalar.
+
+## Capturas de ecrã
+
+**Gestão de Veículos**
+![Veículos](screenshots/veiculos.png)
+
+**Gestão de Clientes**
+![Clientes](screenshots/clientes.png)
+
+**Dashboard**
+![Dashboard](screenshots/dashboard.png)
+
+**Formulário**
+![Formulário](screenshots/formulario.png)
+
+**Confirmação de Reserva**
+![Reserva efetuada com sucesso](screenshots/reserva.png)
